@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_a_text">Demo Text on the Fragment A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_b_text">Hello blank fragment</string>
+</resources>
